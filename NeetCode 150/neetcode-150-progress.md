@@ -128,7 +128,7 @@
 - [ ] House Robber II
 - [ ] Longest Palindromic Substring
 - [ ] Decode Ways
-- [ ] Coin Change
+- [x] Coin Change (Completed: 2025-01-11)
 - [ ] Maximum Product Subarray
 - [ ] Word Break
 - [x] Longest Increasing Subsequence (Completed: 2025-01-07)
