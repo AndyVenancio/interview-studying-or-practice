@@ -27,7 +27,7 @@
 - [ ] Sliding Window Maximum
 
 ### Stack
-- [ ] Valid Parentheses
+- [x] Valid Parentheses (Completed: 2025-01-13)
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
@@ -74,8 +74,8 @@
 - [ ] Serialize and Deserialize Binary Tree
 
 ### Heap / Priority Queue
-- [ ] Kth Largest Element In a Stream
-- [ ] Last Stone Weight
+- [x] Kth Largest Element In a Stream (Completed: 2025-01-12)
+- [x] Last Stone Weight (Completed: 2025-01-13)
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element In An Array
 - [ ] Task Scheduler
@@ -84,11 +84,11 @@
 
 ### Backtracking
 - [ ] Subsets
-- [ ] Combination Sum 
-- [ ] Combination Sum II
+- [x] Combination Sum (Completed: 2025-01-12)
+- [x] Combination Sum II (Completed: 2025-01-12)
 - [ ] Permutations
 - [ ] Subsets II
-- [ ] Word Search
+- [x] Word Search (Completed: 2025-01-12)
 - [ ] Palindrome Partitioning
 - [ ] Letter Combinations of a Phone Number
 - [ ] N Queens
@@ -124,8 +124,8 @@
 ### 1-D Dynamic Programming
 - [ ] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
-- [ ] House Robber
-- [ ] House Robber II
+- [x] House Robber (Completed: 2025-01-11)
+- [x] House Robber II (Completed: 2025-01-11)
 - [ ] Longest Palindromic Substring
 - [ ] Decode Ways
 - [x] Coin Change (Completed: 2025-01-11)

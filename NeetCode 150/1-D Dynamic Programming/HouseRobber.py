@@ -2,8 +2,7 @@
 House Robber
 Difficulty: Medium
 
-You are given an integer array nums where nums[i] represents the amount of money the ith house has. 
-The houses are arranged in a straight line, i.e. the ith house is the neighbor of the (i-1)th and (i+1)th house.
+You are given an integer array nums where nums[i] represents the amount of money the ith house has. The houses are arranged in a straight line, i.e. the ith house is the neighbor of the (i-1)th and (i+1)th house.
 
 You are planning to rob money from the houses, but you cannot rob two adjacent houses because the security system will automatically contact the police if two adjacent houses were broken into on the same night.
 
