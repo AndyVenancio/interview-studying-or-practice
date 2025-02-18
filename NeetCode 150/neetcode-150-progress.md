@@ -1,10 +1,10 @@
 # NeetCode 150 Progress Tracker
 
 ### Array & Hashing
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Two Sum
-- [ ] Group Anagrams
+- [x] Contains Duplicate (Completed: 2025-02-10)
+- [x] Valid Anagram (Completed: 2025-02-10)
+- [x] Two Sum (Completed: 2025-02-14)
+- [x] Group Anagrams (Completed: 2025-02-17)
 - [ ] Top K Frequent Elements
 - [ ] Encode and Decode Strings
 - [ ] Product of Array Except itself
